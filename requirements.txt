@@ -1,0 +1,9 @@
+torch
+numpy
+torchvision
+torchmetrics
+tqdm
+scikit-learn
+matplotlib
+pydicom
+torchsummary
